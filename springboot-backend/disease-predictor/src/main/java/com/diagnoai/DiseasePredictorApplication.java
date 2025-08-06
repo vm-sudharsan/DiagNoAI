@@ -1,4 +1,4 @@
-package com.diagno;
+package com.diagnoai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

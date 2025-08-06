@@ -1,4 +1,4 @@
-package com.diagno.controller;
+package com.diagnoai.controller;
 
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.PostMapping;
