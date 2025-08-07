@@ -53,7 +53,7 @@ const NavigationHeader: React.FC<NavigationHeaderProps> = ({
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-800">
-                {title || 'MediPredict AI'}
+                {title || 'DiagNO-AI'}
               </h1>
               <p className="text-sm text-gray-600">
                 {user?.role === 'RELATIVE'

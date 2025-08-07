@@ -293,7 +293,7 @@ const Contact: React.FC = () => {
             Ready to Start Your Health Journey?
           </h2>
           <p className="text-xl text-blue-100 mb-8">
-            Join thousands of users who trust MediPredict for their health assessments
+            Join thousands of users who trust DiagNO-AI for their health assessments
           </p>
           <button
             onClick={() => navigate('/signup')}

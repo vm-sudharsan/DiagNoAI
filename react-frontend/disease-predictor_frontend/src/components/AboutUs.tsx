@@ -90,7 +90,7 @@ const AboutUs: React.FC = () => {
       <section className="py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-800 mb-6">
-            About <span className="text-blue-600">MediPredict</span>
+            About <span className="text-blue-600">DiagNO-AI</span>
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
             We're on a mission to revolutionize healthcare through artificial intelligence, 

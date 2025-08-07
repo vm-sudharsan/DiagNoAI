@@ -40,8 +40,8 @@ const HomePage: React.FC = () => {
           </div>
           
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4 leading-tight">
-            Multiple Disease
-            <span className="block text-blue-600">Predictor Application</span>
+            DiagNO-AI
+            <span className="block text-blue-600">AI-Powered Health Diagnostics</span>
           </h1>
           
           <p className="text-gray-600 text-lg mb-8">

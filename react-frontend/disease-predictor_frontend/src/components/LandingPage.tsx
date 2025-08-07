@@ -61,7 +61,7 @@ const LandingPage: React.FC = () => {
             <div className="flex items-center">
               <div className="flex-shrink-0 flex items-center">
                 <Heart className="w-8 h-8 text-blue-600 mr-2" />
-                <span className="text-2xl font-bold text-gray-800">MediPredict</span>
+                <span className="text-2xl font-bold text-gray-800">DiagNO-AI</span>
               </div>
             </div>
 
@@ -162,7 +162,7 @@ const LandingPage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">
-              Why Choose MediPredict?
+              Why Choose DiagNO-AI?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Experience the future of healthcare with our cutting-edge AI technology
@@ -252,7 +252,7 @@ const LandingPage: React.FC = () => {
             Ready to Take Control of Your Health?
           </h2>
           <p className="text-xl text-blue-100 mb-8">
-            Join thousands of users who trust MediPredict for their health assessments
+            Join thousands of users who trust DiagNO-AI for their health assessments
           </p>
           <button
             onClick={() => navigate('/signup')}
@@ -270,7 +270,7 @@ const LandingPage: React.FC = () => {
             <div>
               <div className="flex items-center mb-4">
                 <Heart className="w-8 h-8 text-blue-400 mr-2" />
-                <span className="text-2xl font-bold">MediPredict</span>
+                <span className="text-2xl font-bold">DiagNO-AI</span>
               </div>
               <p className="text-gray-300">
                 Empowering individuals with AI-driven health predictions for a healthier tomorrow.
@@ -288,7 +288,7 @@ const LandingPage: React.FC = () => {
             
             <div>
               <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
-              <p className="text-gray-300 mb-2">Email: support@medipredict.com</p>
+              <p className="text-gray-300 mb-2">Email: support@diagno-ai.com</p>
               <p className="text-gray-300 mb-2">Phone: +1 (555) 123-4567</p>
               <p className="text-gray-300">Address: 123 Health St, Medical City, MC 12345</p>
             </div>
@@ -296,7 +296,7 @@ const LandingPage: React.FC = () => {
           
           <div className="border-t border-gray-700 mt-8 pt-8 text-center">
             <p className="text-gray-300">
-              © 2025 MediPredict. All rights reserved. | Privacy Policy | Terms of Service
+              © 2025 DiagNO-AI. All rights reserved. | Privacy Policy | Terms of Service
             </p>
           </div>
         </div>
